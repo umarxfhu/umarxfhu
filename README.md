@@ -1,4 +1,4 @@
-Umar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Software Engineer (Robotics/AI)
+Umar  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Software Engineer (Robotics/AI)
 ====================================================================================================================================
 
 Hey there! I'm Umar, a Computer Engineering graduate from the University of Waterloo. I bring over two years of experience in software development specializing in Robotics/Autonomy, AI, and Web Apps. I enjoy innovative approaches to address real-world challenges and problem-solving by integrating hardware and software. 
