@@ -1,8 +1,5 @@
-Umar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Umar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Software Engineer (Robotics/AI)
 ====================================================================================================================================
-
-Software Engineer (Robotics/AI)
--------------------------------
 
 Hey there! I'm Umar, a Computer Engineering graduate from the University of Waterloo. I bring over two years of experience in software development specializing in Robotics/Autonomy, AI, and Web Apps. I enjoy innovative approaches to address real-world challenges and problem-solving by integrating hardware and software. 
 * I've developed high-performance robotics autonomy software, encompassing perception, prediction, and planning. My experience includes building ML data pipelines optimized for GPU and cloud deployment, with diverse data types like imagery, video, and point clouds. My work in this area demonstrates a deep understanding of both classical algorithms and advanced neural networks, including CNNs and Transformers. 
