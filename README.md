@@ -3,9 +3,9 @@ Umar  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 Hey there! I'm Umar, a Computer Engineering graduate from the University of Waterloo. I bring over three years of experience in software development with C++, Python, and more.
 ![image]({https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white})
-![image]({https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter})
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}})
-![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={username}})
+![image]({https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{umarxfhu}1212%2Fhit-counter})
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={umarxfhu}})
+![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={umarxfhu}})
 ![image]({https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white})
 ![image]({https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white})
 ![image]({https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white})
